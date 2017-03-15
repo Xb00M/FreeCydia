@@ -35,10 +35,6 @@ body{
 	opacity: 0.9;
 	filter:alpha (opacity=90); /*IE8 earlier */
 }
-
-
-
-
 panel > fieldset {
     background-color: #ffffff;
     border: 1px solid #999999;
