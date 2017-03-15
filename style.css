@@ -15,18 +15,16 @@ body{
 	opacity: 0.7;
 	filter:alpha (opacity=70); /*IE8 earlier */
 }
-#nav_wrapper ul li {
+#nav_wrapper a {
     list-style: none;
     display: inline;
     font-weight: bold;
     padding: 10px;
-}
-#nav_wrapper a{
     color: white;
     text-decoration: none;
     padding: 10px;
 }
-#nav_wrapper ul li:hover{
+#nav_wrapper a:hover{
 	background: red;
 	transition:all 0.45s;
 	opacity: 0.9;
